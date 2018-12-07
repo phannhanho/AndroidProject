@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="license_title_fab"> </string>
+    <string name="license_author_fab"> </string>
+    <string name="license_content_fab">
+
+    </string>
+
+    <string name="license_title_tabs">a</string>
+    <string name="license_author_tabs">b</string>
+    <string name="license_content_tabs">
+
+    </string>
+</resources>
